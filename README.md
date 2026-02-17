@@ -1,63 +1,56 @@
 
-# 👋 Hi, I'm Hanna Liashchynska
+# 👋 Привет, Я Анна Лещинская
 
 🎯 Data Analyst 
-📍 Minsk, Belarus 
-📊 Focused on SQL, Python, and Data Visualization  
+📍 Минск, Беларусь
+📊 Основные навыки: SQL, Python, визуализация данных  
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 О себе
 
-• I analyze data to find patterns and business insights  
-• Experienced in data cleaning, EDA, and visualization  
-• Comfortable working with databases and large datasets  
-• Continuously learning and improving my analytics skills  
+• Анализирую данные для поиска закономерностей и бизнес-решений  
+• Опыт работы с очисткой данных, исследовательским анализом (EDA) и визуализацией  
+• Уверенная работа с базами данных и большими наборами данных  
+• Постоянно развиваюсь и улучшаю навыки аналитики  
+• Языки: Русский/Белорусский  (родной),Турецкий (В2), Английский (B1), Польский (A2)
+
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🐍 Programming
+### 🐍 Языки и библиотеки
 ![Python](https://skillicons.dev/icons?i=python)
 
 Python • Pandas • NumPy • Matplotlib • Seaborn  
 
 ---
 
-### 🗄️ Databases & SQL
+### 🗄️ Базы данных и SQL
 ![Postgres](https://skillicons.dev/icons?i=postgres)
 
 SQL • PostgreSQL • DBeaver  
 
 ---
 
-### 📊 Data Analysis Tools
+### 📊 Инструменты анализа данных
 
-Jupyter Notebook • DataLens • MS Excel  
-
----
-
-### 📈 Core Skills
-
-• Data Cleaning & Preprocessing  
-• Exploratory Data Analysis (EDA)  
-• Data Visualization  
-• Statistical Analysis  
-• Dashboard Creation  
-• Working with Large Datasets  
+ DataLens •Jupyter Notebook • MS Excel  
 
 ---
 
-## 📂 Featured Projects
+### 📈 Основные навыки
 
-🔹kjjkhljo
-🔹 ighjgkj 
-🔹 Djfjh 
+• Очистка и подготовка данных  
+• Исследовательский анализ данных (EDA)  
+• Визуализация данных  
+• Статистический анализ 
+• Создание дашбордов 
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Связаться со мной
 
 [![Email](https://img.shields.io/badge/Email-contact%20me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liashchynskayahanna@gmail.com)
 
